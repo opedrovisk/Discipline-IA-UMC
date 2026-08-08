@@ -358,8 +358,7 @@
         "string resultado23 = DescriptografarCesar(texto23, 3);\n",
         "\n",
         "Console.WriteLine(\"textoo criptografado: \" + texto23);\n",
-        "Console.WriteLine(\"texto original: \" + resultado23);\n",
-        ""
+        "Console.WriteLine(\"texto original: \" + resultado23);\n"
       ]
     }
   ]
