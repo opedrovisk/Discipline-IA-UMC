@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMfJ6oTP7IH8mt76osgz05w",
+      "authorship_tag": "ABX9TyOSrxBh8xwLlgGsB726GdHm",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -34,6 +34,8 @@
       },
       "outputs": [],
       "source": [
+        "// Professor, estou adicionando aqui no repositório a versão em Csharp para salvar junto, estou utilizando a sua lista para praticar para a matéria e também para o meu profissional\n",
+        "\n",
         "// Ex 1 - Hello, World!\n",
         "Console.WriteLine(\"hello, world! altas expectativas para sua aula, professor Fabiano!\");\n",
         "\n",
