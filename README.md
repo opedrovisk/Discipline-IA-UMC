@@ -3,7 +3,7 @@
 Repositório para armazenar as atividades da matéria de Inteligência Artificial da minha faculdade.
 
 **Pedro Henrique Marcondes de Jesus Rocha**
-**RA:** 11241102721
+**RGM:** 11241102721
 **Turma:** 6B - Noturno
 **Professor:** Fabiano
 
