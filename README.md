@@ -11,5 +11,5 @@ Repositório para armazenar as atividades da matéria de Inteligência Artificia
 
 | Arquivo | Descrição |
 |---|---|
-| `dev_exs_pedromarcondes.ipynb` | Versão de desenvolvimento: script único que fiz conforme o desenvolvimento, subindo as atividades ao decorrer dos dias (conforme histórico de commits). |
-| `Exercícios_Python_PedroMarcondes_6B_Noturno.ipynb` | Versão final: o mesmo conteúdo da desenv reorganizado  no Jupyter, montado após a conclusão de todos os exercícios, para facilitar a leitura e correção conforme solicitado pelo professor. **Esta é a versão de entrega.** |
+| `Exercícios_Python_PedroMarcondes_6B_Noturno.ipynb` | Atividade da lista de 50 exercícios de Python. |
+| `Exercicios_DataScience_PedroMarcondes_6B_Noturno` | Atividade da lista de exercícios de DataScience (Em desenvolvimento). |
